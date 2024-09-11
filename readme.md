@@ -4,7 +4,7 @@
 
 ⭐ stars appreciated if it was useful for you!
 
-<video controls src="demo.mp4" title="Title"></video>
+![demo](Export-1726088915909.gif)
 
 ## Features
 
@@ -16,7 +16,6 @@
 ## Installation Instructions
 
 1. Download the extension:
-   - Go to this GitHub repository: [Your GitHub Repo URL]
    - Click the green "Code" button and select "Download ZIP"
    - Unzip the downloaded file to a location on your computer
 
@@ -24,7 +23,7 @@
    - Open Google Chrome and go to `chrome://extensions/`
    - Enable "Developer mode" in the top right corner
    - Click "Load unpacked" in the top left corner
-   - Navigate to the unzipped folder you downloaded and select it
+   - Navigate to the unzipped folder you downloaded and select the `MinervaCSS-Extension` folder
 
 3. The extension should now be installed and active. Visit <https://my.minerva.edu> to see it in action!
 
@@ -34,16 +33,3 @@
 - You'll see your student ID displayed in the top navbar
 - Click on the ID or the copy icon to copy it to your clipboard
 - A brief notification will confirm that the ID has been copied
-
-## Feedback and Contributions
-
-If you have any suggestions, issues, or would like to contribute to the project, please:
-
-1. Open an issue in this GitHub repository
-2. Submit a pull request with your proposed changes
-
-We welcome all feedback and contributions!
-
-## License
-
-[Include your chosen license here]
