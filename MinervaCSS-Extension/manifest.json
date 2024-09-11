@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Student ID Display",
+    "version": "1.0",
+    "description": "Displays the student ID in the navbar",
+    "permissions": [
+      "activeTab",
+      "https://my.minerva.edu/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://my.minerva.edu/*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ]
+  }
